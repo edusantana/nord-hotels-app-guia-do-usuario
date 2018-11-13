@@ -1,2 +1,5 @@
 # documentacao-de-apps-modelos
-Modelo para documentação de software
+
+Modelos para documentação de software
+
+- Guia para usuário final
