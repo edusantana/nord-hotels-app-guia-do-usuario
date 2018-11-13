@@ -5,7 +5,7 @@
 # Tipo de Documentação
 
 - [x] Guia para usuário final
-- [] Documentação de referência
+- [ ] Documentação de referência
 
 ## Propóstos deste guia
 
