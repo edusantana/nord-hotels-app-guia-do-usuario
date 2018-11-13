@@ -44,3 +44,7 @@ Nesta atividade você irá criar um repositório para hospedar os arquivos de um
 1. Escolham um projeto de disciplina (se não tiver um projeto, invente um).
 2. Vá ao github e crie um repositório para o projeto escolhido. (Lembre-se de marcar que deseja criar um arquivo README)
 3. Depois que o projeto for criado, edite o arquivo `README.md` e adicione um parágrafo explicando o projeto.
+
+## Algo mais
+
+Sei lá.
