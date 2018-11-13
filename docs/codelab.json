@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "source": "guia-nord-hotels.md",
+  "format": "html",
+  "prefix": "../../",
+  "mainga": "UA-49880327-14",
+  "updated": "2018-11-13T08:08:46-03:00",
+  "id": "guia-nord-hotels",
+  "duration": 123,
+  "title": "",
+  "author": "edusantana",
+  "summary": "“Nesse codelab, você irá aprender a criar sua trabalho acadêmico com as normas da ABNT utilizando Markdown.”",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": null,
+  "tags": [],
+  "feedback": "https://github.com/edusantana/nord-hotels-app-guia-do-usuario/issues",
+  "url": "guia-nord-hotels"
+}
