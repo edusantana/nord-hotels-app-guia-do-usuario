@@ -7,7 +7,7 @@ task :html => ['tmp']do
   sh "claat export -o tmp/ guia-nord-hotels.md"
 
   puts "Criando conteúdo em tmp/"
-  puts "Execute rake local para levantar servidor localmente"
+  puts "Execute 'rake serve' para levantar servidor localmente"
 end
 
 task :default => [:html]
